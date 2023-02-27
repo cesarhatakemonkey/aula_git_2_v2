@@ -1,3 +1,2 @@
 # aula_git_2_v2
-
-oi profinhaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+revisão feita no remoto
